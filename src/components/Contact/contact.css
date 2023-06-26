@@ -1,0 +1,8 @@
+.Contact{
+    display: flex;
+}
+
+.contactRight{
+    flex: 9;
+}
+

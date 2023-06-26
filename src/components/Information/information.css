@@ -1,0 +1,20 @@
+.Information{
+    display: flex;
+}
+
+.informationRight{
+    flex: 9;
+}
+
+.heading{
+    text-align: center;
+    font-family: sans-serif;
+}
+.about{
+    text-align: justify;
+    font-size: 1.3rem;
+    width:400px;
+    align-items: center;
+    margin-left: 33%;
+}
+

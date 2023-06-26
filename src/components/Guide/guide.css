@@ -1,0 +1,8 @@
+.Guide{
+    display: flex;
+}
+
+.guideRight{
+    flex: 9;
+}
+
